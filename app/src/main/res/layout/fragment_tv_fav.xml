@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.TvFav">
+
+    <ProgressBar
+        android:layout_marginEnd="100dp"
+        android:layout_marginStart="100dp"
+        android:id="@+id/progress_tv_fav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_marginLeft="100dp" />
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/tv_fav_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</FrameLayout>

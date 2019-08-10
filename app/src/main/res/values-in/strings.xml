@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubmFour</string>
+    <string name="action_settings">Pengaturan Bahasa</string>
+    <string name="hello_world">Hai</string>
+    <string name="content_desc">Poster Film</string>
+    <string name="menu_list">Daftar Film Tv</string>
+    <string name="menu_fav">Tv Film Kesukaan</string>
+    <string name="menu_movie">Film</string>
+    <string name="menu_tv">Tv</string>
+    <string name="fav_movie">Film Kesukaan</string>
+    <string name="fav_tv">Tv Kesukaan</string>
+    <string name="add">Berhasil</string>
+    <string name="addf">Gagal</string>
+    <string name="overview">Ikhtisar</string>
+</resources>

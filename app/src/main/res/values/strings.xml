@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SubmFour</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Samudra Gawang</string>
+    <string name="nav_header_subtitle">ganar.gatul@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings Language</string>
+    <string name="menu_list">List Movie Tv</string>
+    <string name="menu_movie">Movie</string>
+    <string name="menu_tv">Tv</string>
+    <string name="menu_fav">Favorite Movie Tv</string>
+    <string name="fav_movie">Favorite Movie</string>
+    <string name="fav_tv">Favorite Tv</string>
+    <string name="content_desc">Movie Poster</string>
+    <string name="hello_world">Hello</string>
+    <string name="add">Success</string>
+    <string name="addf">Failed</string>
+    <string name="api_movie">https://api.themoviedb.org/3/discover/movie?api_key=d8c375524b59e7a31fdedc44597ce2d4&amp;language=en-US</string>
+    <string name="api_tv">https://api.themoviedb.org/3/discover/tv?api_key=d8c375524b59e7a31fdedc44597ce2d4&amp;language=en-US</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="overview">Overview</string>
+</resources>
